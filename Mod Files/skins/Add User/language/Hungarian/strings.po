@@ -1,0 +1,777 @@
+# XBMC Media Center language file
+msgid ""
+msgstr ""
+"Project-Id-Version: xbmc4xbox\n"
+"Report-Msgid-Bugs-To: Rocky5 XBMC4Xbox forums\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-04-14 11:00+ZONE\n"
+"Last-Translator: Rocky5\n"
+"Language-Team: Rocky5"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+## DO NOT TRANSLATE (start)
+
+## version
+msgctxt "#31000"
+msgid "XBMC4Gamers 0.0.000"
+msgstr ""
+
+msgctxt "#31001"
+msgid "build type"
+msgstr ""
+
+msgctxt "#31002"
+msgid "XBMC4Gamers datetime"
+msgstr ""
+
+##  DO NOT TRANSLATE (end)
+
+## Custom_logoff.xml - 31011 to 31015
+msgctxt "#31011"
+msgid "logging off"
+msgstr "kijelentkezés"
+
+msgctxt "#31012"
+msgid "Would you like to log out?"
+msgstr "Kijelentkezel?"
+
+## Custom_Menu_Loader.xml - 31016 to 31020
+msgctxt "#31016"
+msgid "loading"
+msgstr "betöltés"
+
+msgctxt "#31017"
+msgid "[B]Kiosk Mode[/B][CR]Profile is locked[CR]Press (A) to logout"
+msgstr "[B]Kioszk mód[/B][CR]Profil zárolva[CR]Nyomjd meg az (A) gombot a kijelentkezéshez"
+
+## Custom_Skin_Settings.xml - 31021 to 31034
+msgctxt "#31021"
+msgid ""
+msgstr ""
+
+msgctxt "#31022"
+msgid "General Toggles"
+msgstr "Általános kapcsolók"
+
+msgctxt "#31023"
+msgid "Home Screen"
+msgstr "Főmenü"
+
+msgctxt "#31024"
+msgid "Login"
+msgstr "Bejelentkezés"
+
+msgctxt "#31025"
+msgid "Quick Change Menu"
+msgstr "Gyorsváltó menü"
+
+msgctxt "#31026"
+msgid "Debug"
+msgstr ""
+
+msgctxt "#31027"
+msgid "Startup Options"
+msgstr "Indítási lehetőségek"
+
+## General Toggles - Custom_Skin_Settings.xml - 31035 to 31058
+msgctxt "#31035"
+msgid "Disable time overlay"
+msgstr "Időjelzés letiltása"
+
+msgctxt "#31036"
+msgid "Hide context buttons at the bottom of the screen"
+msgstr "Kontextus gombok elrejtése a képernyő alján"
+
+msgctxt "#31037"
+msgid "Enable a custom button on the options dialog"
+msgstr "Egyéni gomb engedélyezése a beállítások párbeszédpanelen"
+
+msgctxt "#31038"
+msgid "Label"
+msgstr "Címke"
+
+msgctxt "#31039"
+msgid "XBE/Script path"
+msgstr "XBE/Script elérési út"
+
+msgctxt "#31040"
+msgid "Enable custom xbmc4gamers logo colour"
+msgstr "Egyéni xbmc4gamers logó-szín engedélyezése"
+
+msgctxt "#31041"
+msgid "Custom hex value"
+msgstr "Egyéni hexadecimális érték"
+
+msgctxt "#31042"
+msgid "Audio navigation sound options:"
+msgstr "Audionavigáció hangbeállításai:"
+
+msgctxt "#31043"
+msgid "Hide played overlay on poster views"
+msgstr "Lejátszottak jelzés elrejtése a poszter nézeteken"
+
+msgctxt "#31044"
+msgid "Show reload skin and logout context buttons"
+msgstr "Felszín újratöltési és kijelentkezési gombok megjelenítése"
+
+msgctxt "#31045"
+msgid "Hide trainer overlay on poster views"
+msgstr "Csalás jelző  elrejtése poszter nézetekben"
+
+msgctxt "#31046"
+msgid "Enable night mode"
+msgstr "Éjszakai mód"
+
+msgctxt "#31047"
+msgid "Hide scrolling letter"
+msgstr "Görgető betű elrejtése"
+
+msgctxt "#31048"
+msgid "Change theme"
+msgstr "Téma választás"
+
+msgctxt "#31049"
+msgid "Uninstall themes"
+msgstr "Témák törlése"
+
+msgctxt "#31050"
+msgid "Random theme"
+msgstr "Véletlenszerű téma"
+
+msgctxt "#31051"
+msgid "Reset"
+msgstr "Visszaállítás"
+
+msgctxt "#31052"
+msgid ""
+msgstr ""
+
+msgctxt "#31053"
+msgid ""
+msgstr ""
+
+msgctxt "#31054"
+msgid "Use screensaver fanart in background (DL required)"
+msgstr "Képernyővédő háttérképek használata (DL szükséges)"
+
+msgctxt "#31055"
+msgid "Use non blurred fanart"
+msgstr "Használj nem elmosott hátteret"
+
+msgctxt "#31056"
+msgid "Change splash"
+msgstr "Betöltőkép csere"
+
+msgctxt "#31057"
+msgid "Disable theme custom navigation sounds"
+msgstr "Téma egyéni navigációs hangjainak letiltása"
+
+msgctxt "#31058"
+msgid "Use cached thumbnails"
+msgstr "Gyorsítótárazott bélyegképek használata"
+
+## Quick Change Menu - Custom_Skin_Settings.xml - 31059 to 31060
+msgctxt "#31059"
+msgid "Enable additional sources"
+msgstr "További források engedélyezése"
+
+msgctxt "#31060"
+msgid "Select source"
+msgstr "Forrás kiválasztása"
+
+## Login - Custom_Skin_Settings.xml - 31061 to 31068
+msgctxt "#31061"
+msgid "Enable login screen"
+msgstr "Bejelentkező képernyő engedélyezése"
+
+msgctxt "#31062"
+msgid "Enable debug information"
+msgstr "Debug infó engedélyezése"
+
+msgctxt "#31063"
+msgid "Enable profile lock"
+msgstr "Profilzár engedélyezése"
+
+msgctxt "#31064"
+msgid "Enabling this setting will lock this profile if [B]Kiosk Mode[/B] is enabled"
+msgstr "Ezen beállítás engedélyezése zárolja ezt a profilt, ha a [B]Kioszk mód[/B] engedélyezve van."
+
+msgctxt "#31065"
+msgid "Hide profile image on startup"
+msgstr "Profilkép elrejtése indításkor"
+
+## Scripts - Custom_Skin_Settings.xml - 31069 to 31075
+msgctxt "#31069"
+msgid "Run the most commonly used scripts"
+msgstr "Futtasd a leggyakrabban használt szkripteket"
+
+msgctxt "#31070"
+msgid "View Log Files"
+msgstr "Log fájlok megtekintése"
+
+msgctxt "#31071"
+msgid "Change Debug Modes"
+msgstr "Hibakeresési módok módosítása"
+
+msgctxt "#31072"
+msgid "Reset All XBMC4Gamers Options"
+msgstr "Az XBMC4Gamers összes beállításának visszaállítása"
+
+## Home Window - Custom_Skin_Settings.xml - 31076 to 31085
+msgctxt "#31076"
+msgid "Current Home Window:"
+msgstr "Jelenlegi Főmenü"
+
+msgctxt "#31077"
+msgid "Applications"
+msgstr "Appok"
+
+msgctxt "#31078"
+msgid "Emulators"
+msgstr "Emulátorok"
+
+msgctxt "#31079"
+msgid "Games"
+msgstr "Játékok"
+
+msgctxt "#31080"
+msgid "Homebrew"
+msgstr "Homebrew"
+
+msgctxt "#31081"
+msgid "Home Screen"
+msgstr "Főmenü"
+
+## Startup Options - Custom_Skin_Settings.xml - 31086 to 31100
+msgctxt "#31086"
+msgid "Enable intro video"
+msgstr "Betöltési videó engedélyezése"
+
+msgctxt "#31087"
+msgid "Enable audio playlist"
+msgstr "Hanglejátszási lista engedélyezése"
+
+msgctxt "#31088"
+msgid "[B]Generate[/B] random playlist"
+msgstr "[B]Véletlenszerű lejátszási lista generálása[/B]"
+
+msgctxt "#31089"
+msgid "Custom playlist"
+msgstr "Saját lejátszólista"
+
+msgctxt "#31090"
+msgid "View Options"
+msgstr "Nézet"
+
+msgctxt "#31091"
+msgid "Use theme playlist"
+msgstr "Téma lejátszólista"
+
+msgctxt "#31092"
+msgid "Enable random select"
+msgstr "Véletlenszerű kiválasztás engedélyezése"
+
+msgctxt "#31093"
+msgid "Select File"
+msgstr "Fájl kiválasztása"
+
+msgctxt "#31094"
+msgid "If no file is selected/found it defaults to [B]Q:/intro.mp4[/B] or [B]Q:/system/intros/[/B]"
+msgstr "Ha nincs kiválasztva/megtalálva fájl, akkor az alapértelmezett érték a [B]Q:/intro.mp4[/B] vagy a [B]Q:/system/intros/[/B] lesz."
+
+## DialogKeyboard.xml - 310101 to 31105
+msgctxt "#31101"
+msgid "6 digit hex colour code (0-F)"
+msgstr "6 jegyű hexadecimális színkód (0-F)"
+
+msgctxt "#31102"
+msgid "Cursor Left"
+msgstr "Kurzor balra"
+
+msgctxt "#31103"
+msgid "Cursor Right"
+msgstr "Kurzor jobbra"
+
+## Includes_Context_Buttons.xml - 31106 to 31140
+msgctxt "#31106"
+msgid "Select"
+msgstr "Kiválasztás"
+
+msgctxt "#31107"
+msgid "Game"
+msgstr "Játék"
+
+msgctxt "#31108"
+msgid "Back"
+msgstr "Vissza"
+
+msgctxt "#31109"
+msgid "Media Controls"
+msgstr "Média vezérlők"
+
+msgctxt "#31110"
+msgid "Synopsis"
+msgstr "áttekintés"
+
+msgctxt "#31111"
+msgid "Add to Playlist"
+msgstr "Hozzáadás a lejátszási listához"
+
+msgctxt "#31112"
+msgid "Remove from Playlist"
+msgstr "Eltávolítás a lejátszási listából"
+
+msgctxt "#31113"
+msgid "Context menu"
+msgstr "Környezeti menü"
+
+msgctxt "#31114"
+msgid "Options"
+msgstr "Opciók"
+
+msgctxt "#31115"
+msgid "Favourites"
+msgstr "Kedvencek"
+
+msgctxt "#31116"
+msgid "Clear Cache"
+msgstr "Gyorsítótár törlése"
+
+msgctxt "#31117"
+msgid "Exit Playlist Menu"
+msgstr "Kilépés a lejátszási lista menüjéből"
+
+msgctxt "#31118"
+msgid "Enter Playlist Menu"
+msgstr "Belépés a lejátszási lista menüjébe"
+
+msgctxt "#31119"
+msgid "Quick Change"
+msgstr "Gyors váltás"
+
+msgctxt "#31120"
+msgid "Launch Disc"
+msgstr "Lemez lejátszása"
+
+msgctxt "#31121"
+msgid "View Settings"
+msgstr "Beállítások megtekintése"
+
+msgctxt "#31122"
+msgid "Playlist Settings"
+msgstr "Lejátszási lista beállításai"
+
+msgctxt "#31123"
+msgid "Log Out"
+msgstr "Kijelentkezés"
+
+msgctxt "#31124"
+msgid "Reload Skin"
+msgstr "Felszín újraindítása"
+
+msgctxt "#31125"
+msgid "Recents"
+msgstr "Legutóbbiak"
+
+msgctxt "#31126"
+msgid "Launch"
+msgstr "Futtatás"
+
+msgctxt "#31127"
+msgid "Last Played/Randoms"
+msgstr "Utoljára játszott/véletlenszerű"
+
+## Custom_View_Options.xml - 31141 to 31150
+msgctxt "#31141"
+msgid "Sort: Descending"
+msgstr "Rendezés: Csökkenő"
+
+msgctxt "#31142"
+msgid "Sort: Ascending"
+msgstr "Rendezés: Növekvő"
+
+msgctxt "#31143"
+msgid "Close"
+msgstr "Bezárás"
+
+msgctxt "#31144"
+msgid "Search & Sort"
+msgstr "Keresés és rendezés"
+
+msgctxt "#31145"
+msgid "View Options"
+msgstr "Nézet opciók"
+
+msgctxt "#31146"
+msgid "Switch View"
+msgstr "Nézet váltás"
+
+## Settings.xml - 31151 to 31165
+msgctxt "#31151"
+msgid ""
+msgstr ""
+
+msgctxt "#31152"
+msgid "Region · Screensavers · Display"
+msgstr "Régió · Képernyővédők · Megjelenítés"
+
+msgctxt "#31153"
+msgid "Playback · Video Playback Resolution"
+msgstr "Lejátszás · Videolejátszási felbontás"
+
+msgctxt "#31154"
+msgid "Trainer path · Game scanning · Dashboard path"
+msgstr "Csalás-útvonal · Játékszkennelés · Dash-útvonal"
+
+msgctxt "#31155"
+msgid "Static IP · DHCP"
+msgstr "Statikus IP · DHCP"
+
+msgctxt "#31156"
+msgid "Output · Power saving · Autorun"
+msgstr "Kimenet · Energiatakarékosság · Automatikus indítás"
+
+msgctxt "#31157"
+msgid "Playback"
+msgstr "Lejátszás"
+
+msgctxt "#31158"
+msgid "Copy · Move · Rename · Delete"
+msgstr "Másolás · Áthelyezés · Átnevezés · Törlés"
+
+msgctxt "#31159"
+msgid "Applications · DLC · Mods · Update"
+msgstr "Alkalmazások · DLC · Modok · Frissítés"
+
+msgctxt "#31160"
+msgid "Toggles · Scripts · Startup playlist"
+msgstr "Váltás · Szkriptek · Indító lejátszási lista"
+
+msgctxt "#31161"
+msgid "Temps · HDD Info · Hardware Info"
+msgstr "Hőmérsékletek · HDD információk · Hardver információk"
+
+msgctxt "#31162"
+msgid "XBMC4Gamers Options"
+msgstr "XBMC4Gamers Opciók"
+
+## SettingsCategory.xml - 31166 to 31170
+msgctxt "#31166"
+msgid ""
+msgstr ""
+
+## Startup Options - Custom_Skin_Settings.xml
+msgctxt "#31171"
+msgid ""
+msgstr ""
+
+msgctxt "#31172"
+msgid ""
+msgstr ""
+
+msgctxt "#31173"
+msgid "Enable kiosk mode"
+msgstr "Kioszk mód engedélyezése"
+
+## SettingsScreenCalibration.xml - 31176 to 31178
+msgctxt "#31176"
+msgid "Get spinning disc to have as little wobble as possible."
+msgstr "Forgasd a korongot, hogy a lehető legkevésbé billegjen"
+
+## Startup.xml - 31179 to 31185
+msgctxt "#31179"
+msgid "loading"
+msgstr "betöltés"
+
+msgctxt "#31180"
+msgid "Initialising please wait..."
+msgstr "Inicializálás folyamatban, kérlek várj..."
+
+msgctxt "#31181"
+msgid "Error has occurred. Please send me a copy of your [B]"xbmc.log"[/B] file, or try restarting the xbox."
+msgstr "Hiba történt. Kérlek, küldd el az [B]"xbmc.log"[/B] fájlod másolatát, vagy próbáld meg újraindítani az Xboxot."
+
+## View files - 31186 to 31209
+msgctxt "#31186"
+msgid "Played 0 times"
+msgstr "0 alkalommal lejátszott"
+
+msgctxt "#31187"
+msgid "Played"
+msgstr "Lejátszott"
+
+msgctxt "#31188"
+msgid "time"
+msgstr "idő"
+
+msgctxt "#31189"
+msgid "times"
+msgstr "alkalommal"
+
+msgctxt "#31190"
+msgid "Game Info"
+msgstr "Játék infó"
+
+msgctxt "#31191"
+msgid "0 times"
+msgstr "0 alkalommal"
+
+msgctxt "#31192"
+msgid "This game has been played"
+msgstr "Ezt a játékot lejátszották"
+
+msgctxt "#31193"
+msgid "Used space"
+msgstr "Felhsznált hely"
+
+msgctxt "#31194"
+msgid "Game location"
+msgstr "Játék helye"
+
+## FileBrowser.xml - 31210 to 31212
+msgctxt "#31210"
+msgid "Page"
+msgstr "Oldal"
+
+msgctxt "#31211"
+msgid "Items"
+msgstr "Elemek"
+
+## Manage Profiles Strings - 31500 to 31519
+msgctxt "#31500"
+msgid "Adjust your screen size"
+msgstr "Képméret beállítása"
+
+msgctxt "#31501"
+msgid "Individual save directories for each profile"
+msgstr "Minden profilhoz külön mentési könyvtárak"
+
+msgctxt "#31502"
+msgid "Setup Birthday dates."
+msgstr "Születésnapok beállítása."
+
+msgctxt "#31503"
+msgid "Welcome. [CR]In this menu you will be able to set up to 5 different birthdays. [CR]These will show on the login-screen when the date arrives."
+msgstr "Üdvözlet. [CR]Ebben a menüben akár 5 különböző születésnapot is beállíthatsz. [CR]Ezek megjelennek a bejelentkezési képernyőn, amikor elérkezik az a dátum."
+
+msgctxt "#31504"
+msgid "Enable intro video"
+msgstr "Betöltési videó engedélyezése"
+
+msgctxt "#31505"
+msgid "Other Options"
+msgstr "Egyéb opciók"
+
+msgctxt "#31506"
+msgid "Context Menu"
+msgstr "Környezeti menü"
+
+## LoginScreen.xml - 31520 to 31529
+msgctxt "#31520"
+msgid "Load Profile"
+msgstr "Profil betöltése"
+
+msgctxt "#31521"
+msgid "Context Menu"
+msgstr "Környezeti menü"
+
+msgctxt "#31522"
+msgid "Kiosk Mode Enabled"
+msgstr "Kioszk mód engedélyezve"
+
+msgctxt "#31523"
+msgid "Welcome to XBMC4Gamers"
+msgstr "Üdvözöl az XBMC4Gamers"
+
+msgctxt "#31524"
+msgid "Who is using the controller?"
+msgstr "Ki használja a kontrollert?"
+
+## File Manager.xml - 31530 to 31540
+msgctxt "#31530"
+msgid "Highlight"
+msgstr "Kiemelt"
+
+msgctxt "#31531"
+msgid "Normal Mode"
+msgstr "Normál mód"
+
+msgctxt "#31532"
+msgid "Compact Mode"
+msgstr "Kompakt mód"
+
+## Custom_Dialog_Quick_Change.xml - 31541 to 31550
+msgctxt "#31541"
+msgid "applications"
+msgstr "alaklmazások"
+
+msgctxt "#31542"
+msgid "emulators"
+msgstr "emulátorok"
+
+msgctxt "#31543"
+msgid "games"
+msgstr "játékok"
+
+msgctxt "#31544"
+msgid "homebrew"
+msgstr "homebrew"
+
+## Home.xml - 31560 to 31580
+msgctxt "#31560"
+msgid ""
+msgstr ""
+
+msgctxt "#31561"
+msgid ""
+msgstr ""
+
+msgctxt "#31562"
+msgid ""
+msgstr ""
+
+msgctxt "#31563"
+msgid "Randoms:"
+msgstr "Véletletszerű"
+
+msgctxt "#31564"
+msgid "Close Home"
+msgstr "Főmenü bezárása"
+
+## Home Window - Custom_Skin_Settings.xml - 31600 to 31669
+msgctxt "#31600"
+msgid "Notice"
+msgstr "Értesítés"
+
+msgctxt "#31012"
+msgid "Would you like to log out?"
+msgstr "Szeretnél kijelentkezni?"
+
+msgctxt "#31601"
+msgid "Custom Button"
+msgstr "Saját gomb"
+
+msgctxt "#31602"
+msgid "Name"
+msgstr "Név"
+
+msgctxt "#31603"
+msgid "Leave blank to use the selected source.[CR]Additionally you can separate search items with a comma.[CR]Example: Games,Applications,F:\\Games Alt"
+msgstr "Hagyd üresen a kiválasztott forrás használatához.[CR]Ezenkívül vesszővel is elválaszthatja a keresési elemeket.[CR]Példa: Játékok, Alkalmazások, F:\\Játékok Alt"
+
+msgctxt "#31604"
+msgid "Search Entries"
+msgstr "Keresési bejegyzések"
+
+msgctxt "#31605"
+msgid "Open on selection"
+msgstr "Nyisd meg a kiválasztáskor"
+
+msgctxt "#31606"
+msgid "Warning"
+msgstr "Figyelmeztetés"
+
+msgctxt "#31607"
+msgid "This will reset all XBMC4Gamers options.[CR]Main settings are not reset."
+msgstr "Ez visszaállítja az XBMC4Gamers összes beállítását.[CR]A fő beállítások nem kerülnek visszaállításra."
+
+msgctxt "#31608"
+msgid "Settings reset, will now reload the profile[CR]to complete the process."
+msgstr "Beállítások visszaállítva, most újratöltődik a profil[CR]a folyamat befejezéséhez."
+
+msgctxt "#31609"
+msgid "RSS feed is theme dependant"
+msgstr "Az RSS-hírcsatorna témafüggő"
+
+msgctxt "#31610"
+msgid "Hide home screen RSS feed"
+msgstr "Kezdőképernyő RSS-hírcsatornájának elrejtése"
+
+msgctxt "#31611"
+msgid "Previous theme used custom item values.[CR]Home screen is being refreshed."
+msgstr "Az előző téma egyéni elem-értékeket használt.[CR]A kezdőképernyő frissül."
+
+msgctxt "#31612"
+msgid "Home content is being refreshed."
+msgstr "A főoldal tartalma frissült"
+
+msgctxt "#31613"
+msgid "Preview"
+msgstr "Előnézet"
+
+msgctxt "#31614"
+msgid "Drive Space"
+msgstr "Meghajtó méret"
+
+msgctxt "#31615"
+msgid "Detailed"
+msgstr "Részletesen"
+
+msgctxt "#31616"
+msgid "Standard"
+msgstr "Alap"
+
+msgctxt "#31617"
+msgid "Custom"
+msgstr "Saját"
+
+msgctxt "#31618"
+msgid "Screenshots"
+msgstr "Képrnyőképek"
+
+msgctxt "#31619"
+msgid "Preview"
+msgstr "Előnézet"
+
+msgctxt "#31620"
+msgid "Extended Info"
+msgstr "Kitejesztett infó"
+
+msgctxt "#31621"
+msgid "Fanart"
+msgstr "Fanart"
+
+msgctxt "#31622"
+msgid "Resources"
+msgstr "Források"
+
+msgctxt "#31623"
+msgid "Enable or Disable Views"
+msgstr "Nézetek engedélyezése vagy letiltása"
+
+## Other Options - Custom_Skin_Settings.xml - 31670 to 31700
+msgctxt "#31670"
+msgid "Configure the wallpaper/rendering dimensions, and quality settings."
+msgstr "Konfiguráld a háttérkép/megjelenítés méreteit és minőségi beállításait."
+
+msgctxt "#31671"
+msgid ""
+msgstr ""
+
+msgctxt "#31672"
+msgid "Wallpaper Settings"
+msgstr "Háttérkép beállítások"
+
+msgctxt "#31673"
+msgid "Width"
+msgstr "Szélesség"
+
+msgctxt "#31674"
+msgid "Height"
+msgstr "Magasság"
+
+msgctxt "#31675"
+msgid "Quality (0 - 100)"
+msgstr "Minőség (0 - 100)"
+
+msgctxt "#31676"
+msgid ""
+msgstr ""
+
+msgctxt "#31677"
+msgid ""
+msgstr ""
