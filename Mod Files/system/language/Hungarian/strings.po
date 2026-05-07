@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: xbmc4xbox\n"
 "Report-Msgid-Bugs-To: buzz@exotica.org.uk\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-05-07 10:00+ZONE\n"
 "Last-Translator: XBMC Translation Team\n"
 "Language-Team: Hungarian (http://www.transifex.com/projects/p/xbmc4xbox/language/hu/)\n"
 "MIME-Version: 1.0\n"
@@ -131,7 +131,7 @@ msgstr "December"
 
 msgctxt "#41"
 msgid "Mon"
-msgstr "Hétf"
+msgstr "Hét"
 
 msgctxt "#42"
 msgid "Tue"
@@ -739,7 +739,7 @@ msgstr "Célkönyvtár választása"
 
 msgctxt "#252"
 msgid "Output stereo to all speakers"
-msgstr "Sztereó kimenet mindegyik hangszórón"
+msgstr "Sztereó kimenet minden hangszórón"
 
 msgctxt "#253"
 msgid "Number of channels"
@@ -935,15 +935,15 @@ msgstr "Nem interleave típusú"
 
 msgctxt "#307"
 msgid "- Automatic post-processing"
-msgstr "- Automatikus post-processing"
+msgstr "- Automatikus utó-processing"
 
 msgctxt "#308"
 msgid "- Vertical deblocking filter"
-msgstr "- Vertical deblocking filter"
+msgstr "- Vertikális deblocking szűrő"
 
 msgctxt "#309"
 msgid "- Horizontal deblocking filter"
-msgstr "- Horizontal deblocking filter"
+msgstr "- Horizontal deblocking szűrő"
 
 msgctxt "#310"
 msgid "- Auto brightness/contrast"
@@ -1743,7 +1743,7 @@ msgstr "Hiba: már létező cím"
 
 msgctxt "#530"
 msgid "Select genre"
-msgstr "Műfaj választása"
+msgstr "Műfaj kiválasztása"
 
 msgctxt "#531"
 msgid "New genre"
@@ -2739,7 +2739,7 @@ msgstr "Program beépülők"
 
 msgctxt "#1044"
 msgid "Set plugin thumb"
-msgstr "Beépülő bélyeg beállítás"
+msgstr "Beépülő bélyegkép beállítás"
 
 msgctxt "#1045"
 msgid "Plugin settings"
@@ -3287,19 +3287,19 @@ msgstr "Trainer lista frissítése"
 
 msgctxt "#12013"
 msgid "Trainer"
-msgstr "Trainer"
+msgstr "Csalások"
 
 msgctxt "#12014"
 msgid "No trainers found"
-msgstr "Trainer nem található"
+msgstr "Csalás nem található"
 
 msgctxt "#12015"
 msgid "Trainer settings"
-msgstr "Trainer beállítások"
+msgstr "Csalások beállításai"
 
 msgctxt "#12016"
 msgid "All registered trainers are missing. Update your list"
-msgstr "Minden regisztrált trainer hiányzik. Frissítsd a listát!"
+msgstr "Az összes csalás hiányzik. Frissítsd a listát!"
 
 msgctxt "#12017"
 msgid "Resume from where last stopped"
@@ -3327,7 +3327,7 @@ msgstr "Folytatás innen: %s"
 
 msgctxt "#12023"
 msgid "Validating existing trainers..."
-msgstr "Meglévő trainerek ellenőrzése..."
+msgstr "Meglévő csalások ellenőrzése..."
 
 msgctxt "#12310"
 msgid "0"
@@ -3539,11 +3539,11 @@ msgstr "NTSC videók lejátszása PAL60 sebességgel"
 
 msgctxt "#12383"
 msgid "12 hour clock"
-msgstr "12 órás számozás"
+msgstr "12 órás formátum"
 
 msgctxt "#12384"
 msgid "24 hour clock"
-msgstr "24 órás számozás"
+msgstr "24 órás formátum"
 
 msgctxt "#12385"
 msgid "Day/Month"
@@ -5635,7 +5635,7 @@ msgstr "Nincs minikép"
 
 msgctxt "#20019"
 msgid "Choose thumbnail"
-msgstr "Minikép választása"
+msgstr "Minikép kiválasztása"
 
 msgctxt "#20023"
 msgid "Conflict"
@@ -5791,7 +5791,7 @@ msgstr "Létrehozás új médiaforrásokkal"
 
 msgctxt "#20072"
 msgid "Make sure the selected folder is writable"
-msgstr "Győződjön meg, hogy a kiválasztott mappa írható"
+msgstr "Győződj meg, hogy a kiválasztott mappa írható"
 
 msgctxt "#20073"
 msgid "and that the new folder name is valid"
@@ -5883,7 +5883,7 @@ msgstr "Médiaforrások"
 
 msgctxt "#20095"
 msgid "Enter profile lock code"
-msgstr "Adja meg a profil zárolási kódját"
+msgstr "Add meg a profil zárolási kódját"
 
 msgctxt "#20096"
 msgid "Login screen"
@@ -5963,7 +5963,7 @@ msgstr "Profil i% / i%"
 
 msgctxt "#20115"
 msgid "User login / Select a profile"
-msgstr "Belépés / Válasszon profilt"
+msgstr "Belépés / Válassz profilt"
 
 msgctxt "#20116"
 msgid "Use lock on login screen"
@@ -5979,7 +5979,7 @@ msgstr "Ehhez a mesterkód beállítása szükséges."
 
 msgctxt "#20119"
 msgid "Would you like to set it now?"
-msgstr "Kívánja most beállítani?"
+msgstr "Kívánod most beállítani?"
 
 msgctxt "#20120"
 msgid "Loading program information"
@@ -6271,7 +6271,7 @@ msgstr "Médiaadatok frissítésekor kiegészítő információk letöltése"
 
 msgctxt "#20194"
 msgid "Default service for music information"
-msgstr "Alapértelmezett scraper"
+msgstr "Alapértelmezett leolvasó a zenéhez"
 
 msgctxt "#20195"
 msgid "Change scraper"
@@ -6431,7 +6431,7 @@ msgstr "Tallózás"
 
 msgctxt "#20330"
 msgid "Use folder names for lookups"
-msgstr "Használja a mappanevet a keresésekhez"
+msgstr "Használd a mappanevet a keresésekhez"
 
 msgctxt "#20331"
 msgid "File"
@@ -6755,7 +6755,7 @@ msgstr "Listák szűkítése"
 
 msgctxt "#20412"
 msgid "Flatten TV shows"
-msgstr "Szűkítés (TV műsor)"
+msgstr "Szűkítés (Sorozat)"
 
 msgctxt "#20413"
 msgid "Get Fanart"
@@ -7999,7 +7999,7 @@ msgstr "Hallgasd"
 
 msgctxt "#33058"
 msgid "View your"
-msgstr "Megnézd"
+msgstr "Nézd"
 
 msgctxt "#33059"
 msgid "Configure the"
@@ -8007,7 +8007,7 @@ msgstr "Konfiguráld"
 
 msgctxt "#33060"
 msgid "Power"
-msgstr "Betáplálás"
+msgstr "Kikapcsolás"
 
 msgctxt "#33061"
 msgid "Menu"
@@ -8100,3 +8100,11 @@ msgstr "Egyedi program gomb engedélyezése"
 msgctxt "#34005"
 msgid "Flac"
 msgstr "Flac"
+
+msgctxt "#34006"
+msgid "- Primary DNS"
+msgstr "- Elsődleges DNS"
+
+msgctxt "#34007"
+msgid "- Secondary DNS"
+msgstr "- Másodlagos DNS"
