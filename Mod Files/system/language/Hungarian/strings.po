@@ -31,7 +31,7 @@ msgstr "Videók"
 
 msgctxt "#4"
 msgid "TV-Guide"
-msgstr "TV Műsor kalauz"
+msgstr "Műsor kalauz"
 
 msgctxt "#5"
 msgid "Settings"
@@ -299,7 +299,7 @@ msgstr "Fájltörlés megerősítése?"
 
 msgctxt "#123"
 msgid "Copy these files?"
-msgstr "Kijelölt mappák és fájlok átmásolása?"
+msgstr "Kijelölt mappák és fájlok másolása?"
 
 msgctxt "#124"
 msgid "Move these files?"
@@ -1545,6 +1545,10 @@ msgctxt "#471"
 msgid "Modchip"
 msgstr "Modchip"
 
+msgctxt "#472"
+msgid "I2C Address"
+msgstr "I2C Address"
+
 msgctxt "#474"
 msgid "Off"
 msgstr "Ki"
@@ -1563,7 +1567,7 @@ msgstr "Lejátszáslista nem tölthető be"
 
 msgctxt "#478"
 msgid "OSD"
-msgstr "Navigációs tálca"
+msgstr "OSD"
 
 msgctxt "#479"
 msgid "Skin & language"
@@ -1607,7 +1611,7 @@ msgstr "- Nagy ikonok használata"
 
 msgctxt "#492"
 msgid "Resize VobSubs"
-msgstr "Feliratok méretezése"
+msgstr "Feliratok átméretezése"
 
 msgctxt "#493"
 msgid "Advanced options (Experts Only!)"
@@ -1675,7 +1679,7 @@ msgstr "Automatikus képmód váltás"
 
 msgctxt "#512"
 msgid "Startup window"
-msgstr "Kezdőablak"
+msgstr "Kezdőaképernyő"
 
 msgctxt "#513"
 msgid "Home window"
@@ -2055,7 +2059,7 @@ msgstr "Bitarány"
 
 msgctxt "#624"
 msgid "Include track number"
-msgstr "Zene számának bevonása"
+msgstr "Zeneszámok belefoglalása"
 
 msgctxt "#625"
 msgid "All songs of"
@@ -7809,9 +7813,131 @@ msgctxt "#29999"
 msgid "Apply flicker filter setting to games"
 msgstr "Villogás szűrő alkalmazása játékokra"
 
+#strings 32000 thru 32999 reserved for scripts and new internal names
+
+msgctxt "#32000"
+msgid "Advanced"
+msgstr "Haladó"
+
+msgctxt "#32001"
+msgid "Enable the use of the (Y) button to open the information window"
+msgstr "Engedélyezd az (Y) gomb használatát az információs ablak megnyitásához"
+
+msgctxt "#32002"
+msgid "Enable fast game parsing"
+msgstr "Gyors játékelemzés engedélyezése"
+
+msgctxt "#32003"
+msgid "Don't use Synopsis naming"
+msgstr "Ne használj szinopszis elnevezést"
+
+msgctxt "#32004"
+msgid "This option will not work with forced 480p bios"
+msgstr "Ez a beállítás nem fog működni kényszerített 480p BIOS-szal"
+
+msgctxt "#32005"
+msgid "Enable higher resolution artwork"
+msgstr "Nagyobb felbontású grafikák engedélyezése"
+
+msgctxt "#32006"
+msgid "Refresh info"
+msgstr "Infó frissítése"
+
+msgctxt "#32007"
+msgid "Refresh all contents info"
+msgstr "Minden tartalom frissítése"
+
+msgctxt "#32008"
+msgid "Refreshing Synopsis Information"
+msgstr "Szinopsis infó frissítése"
+
+msgctxt "#32009"
+msgid "Override Launch XBE"
+msgstr "XBE indítás felülbírálása"
+
+msgctxt "#32010"
+msgid "Unpatched"
+msgstr "Érintetlen"
+
+msgctxt "#32011"
+msgid "480p Patch"
+msgstr "480p Patch"
+
+msgctxt "#32012"
+msgid "720p Patch"
+msgstr "720p Patch"
+
+msgctxt "#32013"
+msgid "Generic Patch"
+msgstr "Általános Patch"
+
+msgctxt "#32014"
+msgid "Widescreen Patch"
+msgstr "Szélesvászon Patch"
+
+msgctxt "#32015"
+msgid "XHD Patch"
+msgstr "XHD Patch"
+
+msgctxt "#32016"
+msgid "Resize Screen"
+msgstr "Képernyő átméretezése"
+
+msgctxt "#32017"
+msgid "Edit or Refresh"
+msgstr "Szerkesztés vagy frissítés"
+
+msgctxt "#32018"
+msgid "Trainers (cheats)"
+msgstr "Trainerek (csalások)"
+
+msgctxt "#32019"
+msgid "Information"
+msgstr "Információk"
+
+msgctxt "#32020"
+msgid "Power Saving"
+msgstr "Energiatakarékos"
+
+msgctxt "#32021"
+msgid "This can crash some Xbox. If yours crashes, hold the (Black) button[CR]when the splash screen appears to disable."
+msgstr "Ez összeomlást okozhat egyes Xboxokon. Ha a tiéd összeomlik, a letiltáshoz tartsd lenyomva a (Fekete) gombot [CR], amikor megjelenik a kezdőképernyő."
+
+msgctxt "#32022"
+msgid "  Ignore matches in path"
+msgstr "  Az elérési úton található egyezések figyelmen kívül hagyása"
+
+msgctxt "#32023"
+msgid "  Ignore matches in name"
+msgstr "  A  névtalálatok figyelmen kívül hagyása"
+
+msgctxt "#32024"
+msgid "1080i Patch"
+msgstr "1080i Patch"
+
+msgctxt "#32025"
+msgid "Discord"
+msgstr "Discord"
+
+msgctxt "#32026"
+msgid "Enable xbdStats communication"
+msgstr "xbdStats kommunikáció engedélyezése"
+
+msgctxt "#32027"
+msgid "- Send title names to server"
+msgstr "- Címek neveinek küldése a szerverre"
+
+msgctxt "#32028"
+msgid "- Clear presence on startup"
+msgstr "- Tiszta jelenlét indításkor"
+
+msgctxt "#32029"
+msgid "Configure in the "Add User" profile, or disable the login screen."
+msgstr "Konfiguráld a „Felhasználó hozzáadása” profilban, vagy tiltsd le a bejelentkezési képernyőt."
+
 msgctxt "#33001"
 msgid "Trailer quality"
-msgstr "Filmelőzetes minőség"
+msgstr "Filmelőzetes minősége"
 
 msgctxt "#33002"
 msgid "Stream"
