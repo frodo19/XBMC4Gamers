@@ -666,8 +666,8 @@ msgid "Test patterns..."
 msgstr "Teszt minták..."
 
 msgctxt "#227"
-msgid "Lookup audio CD track names from freedb.org"
-msgstr "Zenei CD-k keresése a freedb.org-on"
+msgid "Lookup audio CD track names from gnudb.org"
+msgstr "Zenei CD-k keresése a gnudb.org-on"
 
 msgctxt "#228"
 msgid "Shuffle playlist on load"
@@ -716,6 +716,34 @@ msgstr "Nagyítás"
 msgctxt "#239"
 msgid "Clear playlist on finish"
 msgstr "Lejátszáslista törlése kilépéskor"
+
+msgctxt "#240"
+msgid "Autoplay DVD-Video"
+msgstr "DVD-videó automatikus lejátszása"
+
+msgctxt "#241"
+msgid "Autoplay VCD/SVCD"
+msgstr "VCD/SVCD-videó automatikus lejátszása"
+
+msgctxt "#242"
+msgid "Autoplay Audio-CD"
+msgstr "Audió CD automatikus lejátszása"
+
+msgctxt "#243"
+msgid "Autoplay Xbox games"
+msgstr "Xbox játékok automatikus lejátszása"
+
+msgctxt "#244"
+msgid "Autoplay videos"
+msgstr "Videók automatikus lejátszása"
+
+msgctxt "#245"
+msgid "Autoplay music"
+msgstr "Zene automatikus lejátszása"
+
+msgctxt "#246"
+msgid "Autoplay pictures"
+msgstr "Képek automatikus lejátszása"
 
 msgctxt "#247"
 msgid "Scripts"
@@ -916,6 +944,22 @@ msgstr "Hang eltolás"
 msgctxt "#298"
 msgid "Bookmarks"
 msgstr "Könyvjelzők"
+
+msgctxt "#299"
+msgid "- AAC capable receiver"
+msgstr "- AAC képes erősítő"
+
+msgctxt "#300"
+msgid "- MP1 capable receiver"
+msgstr "- MP1 képes erősítő"
+
+msgctxt "#301"
+msgid "- MP2 capable receiver"
+msgstr "- MP2 képes erősítő"
+
+msgctxt "#302"
+msgid "- MP3 capable receiver"
+msgstr "- MP3 képes erősítő"
 
 msgctxt "#303"
 msgid "Delay"
@@ -1361,6 +1405,22 @@ msgctxt "#417"
 msgid "View: Big icons"
 msgstr "Nézet: Nagy ikon"
 
+#. Weather token
+msgctxt "#418"
+msgid "Low"
+msgstr "Alacsony"
+
+#. Weather token
+msgctxt "#419"
+msgid "High"
+msgstr "Magas"
+
+#empty string with id 420
+
+msgctxt "#421"
+msgid "Enable Library"
+msgstr "Médiatás engedélyezése"
+
 msgctxt "#422"
 msgid "Delete album info"
 msgstr "Album információ törlése"
@@ -1585,6 +1645,12 @@ msgctxt "#482"
 msgid "About XBMC"
 msgstr "Az XBMC-ről"
 
+msgctxt "#483"
+msgid "DVDPlayer cache"
+msgstr "DVDPlayer gyorsítótár"
+
+#empty string with id 484
+
 msgctxt "#485"
 msgid "Delete album"
 msgstr "Album törlése"
@@ -1693,6 +1759,10 @@ msgctxt "#515"
 msgid "Genre"
 msgstr "Műfaj"
 
+msgctxt "#516"
+msgid "Make stored archives with one file transparent"
+msgstr "Tárolt archívumok átláthatóvá tétele egyetlen fájlként"
+
 msgctxt "#517"
 msgid "Recently played albums"
 msgstr "Mostanában játszott albumok"
@@ -1702,8 +1772,8 @@ msgid "Launch"
 msgstr "Indítás"
 
 msgctxt "#519"
-msgid "Launch in..."
-msgstr "Indítás a..."
+msgid "Region override"
+msgstr "Régió felülírása"
 
 msgctxt "#520"
 msgid "Edit XBE title"
@@ -2229,9 +2299,21 @@ msgctxt "#706"
 msgid "- Server"
 msgstr "- Kiszolgáló"
 
+msgctxt "#707"
+msgid "HTTP proxy port"
+msgstr "HTTP proxy port"
+
 msgctxt "#708"
 msgid "Use an HTTP proxy server to access the internet"
 msgstr "HTTP proxykiszolgáló használata az internet eléréséhez"
+
+msgctxt "#709"
+msgid "HTTP proxy username"
+msgstr "HTTP proxy felhasználó"
+
+msgctxt "#710"
+msgid "HTTP proxy password"
+msgstr "HTTP proxy jelszó"
 
 msgctxt "#711"
 msgid "Internet Protocol (IP)"
@@ -2525,9 +2607,13 @@ msgctxt "#789"
 msgid "Wireless network name (ESSID)"
 msgstr "Vezetéknélküli hálózat neve (ESSID)"
 
+msgctxt "#790"
+msgid "Event server"
+msgstr "Eseménykiszolgáló"
+
 msgctxt "#791"
 msgid "Allow programs on this system to control XBMC"
-msgstr "XBMC irányítható az ezen a rendszeren futó programokkal"
+msgstr "Az XBMC irányítható legyen az itt futó programokkal"
 
 msgctxt "#792"
 msgid "Port"
@@ -3897,6 +3983,16 @@ msgctxt "#13174"
 msgid "HDD power cycle count:"
 msgstr "HDD indítások száma:"
 
+msgctxt "#13175"
+msgid "HDD current UDMA mode:"
+msgstr "HDD jelenlegi UDMA mód:"
+
+msgctxt "#13176"
+msgid "HDD max supported UDMA mode:"
+msgstr "HDD maximális UDMA mód:"
+
+#empty strings from id 13177 to 13199
+
 msgctxt "#13200"
 msgid "Profiles"
 msgstr "Profilok"
@@ -3997,9 +4093,13 @@ msgctxt "#13281"
 msgid "Hardware"
 msgstr "Hardver"
 
+msgctxt "#13282"
+msgid "_"
+msgstr "_"
+
 msgctxt "#13283"
-msgid "Operating system:"
-msgstr "Operációs rendszer:"
+msgid "Kernel version:"
+msgstr "Kernel verzió:"
 
 msgctxt "#13284"
 msgid "CPU speed:"
@@ -4213,6 +4313,10 @@ msgctxt "#13336"
 msgid "Remove button"
 msgstr "Gomb eltávolítása"
 
+msgctxt "#13337"
+msgid "CPU & GPU speed:"
+msgstr "CPU & GPU sebesség:"
+
 msgctxt "#13338"
 msgid "Front LED"
 msgstr "Elülső LED"
@@ -4308,6 +4412,20 @@ msgstr "Automatikus minikép generálás"
 msgctxt "#13361"
 msgid "Enable voice"
 msgstr "Hang engedélyezése"
+
+msgctxt "#13362"
+msgid "XBE launch fan speed"
+msgstr "XBE Ventillátor sebesség"
+
+msgctxt "#13363"
+msgid "Fan curve"
+msgstr "Ventillátor görbe"
+
+msgctxt "#13364"
+msgid "Aggressive"
+msgstr "Agresszív"
+
+#empty strings from id 13363 to 13374
 
 msgctxt "#13375"
 msgid "Enable device"
@@ -4457,6 +4575,10 @@ msgctxt "#13411"
 msgid "Minimum fan speed"
 msgstr "Minimum ventilátor-sebesség"
 
+msgctxt "#13412"
+msgid "Play from here"
+msgstr "Lejátszás innen"
+
 msgctxt "#13413"
 msgid "Downloading"
 msgstr "Letöltés folyamatban"
@@ -4505,6 +4627,14 @@ msgctxt "#13424"
 msgid "Use pixel buffer objects"
 msgstr "Pixel buffer objektumok használata"
 
+msgctxt "#13433"
+msgid "Play the next video automatically"
+msgstr "A következő videó automatikus lejátszása"
+
+msgctxt "#13434"
+msgid "Play only this"
+msgstr "Csak ennek a lejátszása"
+
 msgctxt "#13500"
 msgid "A/V sync method"
 msgstr "Hang/Kép szinkron ehhez"
@@ -4552,6 +4682,10 @@ msgstr "Lejátszás szinkronizálása a megjelenítőhöz"
 msgctxt "#13600"
 msgid "Apple remote"
 msgstr "Apple távirányító"
+
+msgctxt "#13601"
+msgid "Use MCE/Universal Remote"
+msgstr "MCE/Universal Remote használata"
 
 msgctxt "#13602"
 msgid "Allow start of XBMC using the remote"
@@ -4732,6 +4866,10 @@ msgstr "megváltoztatásához. Újraindítás most?"
 msgctxt "#14041"
 msgid "Post processing"
 msgstr "Post processing"
+
+msgctxt "#14042"
+msgid "Internet connection bandwidth limitation"
+msgstr "Internetkapcsolat sávszélesség-korlátozása"
 
 msgctxt "#14043"
 msgid "- Shutdown while playing"
@@ -4932,6 +5070,48 @@ msgstr "Beviteli-eszközök"
 msgctxt "#14095"
 msgid "Power saving"
 msgstr "Energiakezelés"
+
+msgctxt "#14096"
+msgid "Video cache"
+msgstr "Videó gyorsítótár"
+
+msgctxt "#14097"
+msgid "Video cache - max time"
+msgstr "Videó gyorsítótár - max idő"
+
+msgctxt "#14098"
+msgid "Audio cache"
+msgstr "Hang gyorsítótár"
+
+msgctxt "#14099"
+msgid "Audio cache - max time"
+msgstr "Hang gyorsítótár - max idő"
+
+msgctxt "#14100"
+msgid "H.264 Skip Loop Filter"
+msgstr "H.264 hurokkihagyás szűrő"
+
+msgctxt "#14101"
+msgid "Default"
+msgstr "Alap"
+
+msgctxt "#14102"
+msgid "Skip Non-reference Frames"
+msgstr "Nem referencia képkockák kihagyása"
+
+msgctxt "#14103"
+msgid "Skip Bidirectional Frames"
+msgstr "Bidirectioonal képkockák kihagyása"
+
+msgctxt "#14104"
+msgid "Skip Non-key frames"
+msgstr "Non-key képkockák kihagyása"
+
+msgctxt "#14105"
+msgid "Skip Everything"
+msgstr "Mindent kihagy"
+
+#empty strings from id 14106 to 15014
 
 msgctxt "#15015"
 msgid "Remove"
@@ -5640,6 +5820,10 @@ msgstr "Nincs minikép"
 msgctxt "#20019"
 msgid "Choose thumbnail"
 msgstr "Minikép kiválasztása"
+
+msgctxt "#20020"
+msgid "XPR Thumb"
+msgstr "XPR minikép"
 
 msgctxt "#20023"
 msgid "Conflict"
@@ -6406,8 +6590,8 @@ msgid "No online save found for specified game"
 msgstr "Nincs online játékmentés a megadott játékra"
 
 msgctxt "#20322"
-msgid "Go to game save"
-msgstr "Játékmentésekhez"
+msgid "Go to game save on %s"
+msgstr "Játékmentések megtekintése itt %s"
 
 msgctxt "#20323"
 msgid "Game saves"
@@ -6901,6 +7085,10 @@ msgctxt "#20448"
 msgid "Could not download information"
 msgstr "Nem tudtam letölteni az információt"
 
+msgctxt "#20449"
+msgid "Server is most likely unavailable."
+msgstr "A szerver valószínűleg nem érhető el."
+
 msgctxt "#20450"
 msgid "Would you like to continue scanning?"
 msgstr "Szeretnéd a keresést folytatni?"
@@ -6908,6 +7096,20 @@ msgstr "Szeretnéd a keresést folytatni?"
 msgctxt "#20451"
 msgid "Countries"
 msgstr "Országok"
+
+msgctxt "#20454"
+msgid "Listener"
+msgstr "Hallgató"
+
+msgctxt "#20455"
+msgid "Listeners"
+msgstr "Hallgatók"
+
+msgctxt "#20456"
+msgid "Set movieset fanart"
+msgstr "Filmgyűjtemény fanart beállítása"
+
+#empty string with id 20457
 
 msgctxt "#20458"
 msgid "Group movies in sets"
@@ -7289,6 +7491,10 @@ msgctxt "#21449"
 msgid "Remote control sends keyboard presses"
 msgstr "Távirányító billentyűleütéseket küld"
 
+msgctxt "#21450"
+msgid "- Edit"
+msgstr "- Szerkesztés""
+
 msgctxt "#21800"
 msgid "File name"
 msgstr "Fájlnév"
@@ -7597,6 +7803,10 @@ msgctxt "#22002"
 msgid "- DNS suffix"
 msgstr "- DNS utótag"
 
+msgctxt "#22003"
+msgid "Default player"
+msgstr "Alapértelmezett lejátszó"
+
 msgctxt "#22004"
 msgid "Delayed by: %2.3fs"
 msgstr "Késleltet: %2.3fmp"
@@ -7680,6 +7890,26 @@ msgstr "DirectX gyártó:"
 msgctxt "#22024"
 msgid "Direct3D version"
 msgstr "Direct3D verzió:"
+
+msgctxt "#22025"
+msgid "DVDPlayer full codec support"
+msgstr "DVD lejátszó teljes kodek támogatás"
+
+msgctxt "#22026"
+msgid "DVDPlayer fast mode for MPEG2/MPEG4/H264"
+msgstr "DVD lejátszó gyors mód MPEG2/MPEG4/H264-hez"
+
+msgctxt "#22027"
+msgid "PAPlayer"
+msgstr "PAPlayer"
+
+msgctxt "#22028"
+msgid "DVDPlayer"
+msgstr "DVD lejátszó"
+
+msgctxt "#22029"
+msgid "MPlayer"
+msgstr "MPlayer"
 
 msgctxt "#22030"
 msgid "Font"
@@ -7781,6 +8011,10 @@ msgctxt "#24000"
 msgid "Add-on"
 msgstr "Kiegészítő"
 
+msgctxt "#24001"
+msgid "Plugins"
+msgstr "Kiegészítők"
+
 msgctxt "#24020"
 msgid "Configure"
 msgstr "Beállítás"
@@ -7792,6 +8026,10 @@ msgstr "Kikapcsolás"
 msgctxt "#24022"
 msgid "Enable"
 msgstr "Engedélyezés"
+
+msgctxt "#24023"
+msgid "Add-on disabled"
+msgstr "Kiegészítő letiltva"
 
 msgctxt "#24030"
 msgid "This Add-on can not be configured"
@@ -7820,7 +8058,7 @@ msgid "Advanced"
 msgstr "Haladó"
 
 msgctxt "#32001"
-msgid "Enable the use of the (Y) button to open the information window"
+msgid "Enable (Y) button opens the information window"
 msgstr "Engedélyezd az (Y) gomb használatát az információs ablak megnyitásához"
 
 msgctxt "#32002"
@@ -7828,8 +8066,8 @@ msgid "Enable fast game parsing"
 msgstr "Gyors játékelemzés engedélyezése"
 
 msgctxt "#32003"
-msgid "Don't use Synopsis naming"
-msgstr "Ne használj szinopszis elnevezést"
+msgid "Disable Synopsis naming"
+msgstr "Szinopszis átnevezés tiltása"
 
 msgctxt "#32004"
 msgid "This option will not work with forced 480p bios"
@@ -7848,11 +8086,11 @@ msgid "Refresh all contents info"
 msgstr "Minden tartalom frissítése"
 
 msgctxt "#32008"
-msgid "Refreshing Synopsis Information"
-msgstr "Szinopsis infó frissítése"
+msgid "Processing metadata..."
+msgstr "Metaadatok átvitele..."
 
 msgctxt "#32009"
-msgid "Override Launch XBE"
+msgid "Custom launch XBE"
 msgstr "XBE indítás felülbírálása"
 
 msgctxt "#32010"
@@ -7884,12 +8122,12 @@ msgid "Resize Screen"
 msgstr "Képernyő átméretezése"
 
 msgctxt "#32017"
-msgid "Edit or Refresh"
-msgstr "Szerkesztés vagy frissítés"
+msgid "Manage"
+msgstr "Kezelés"
 
 msgctxt "#32018"
-msgid "Trainers (cheats)"
-msgstr "Trainerek (csalások)"
+msgid "Launch settings"
+msgstr "Indítási beállítások"
 
 msgctxt "#32019"
 msgid "Information"
@@ -7934,6 +8172,82 @@ msgstr "- Tiszta jelenlét indításkor"
 msgctxt "#32029"
 msgid "Configure in the "Add User" profile, or disable the login screen."
 msgstr "Konfiguráld a „Felhasználó hozzáadása” profilban, vagy tiltsd le a bejelentkezési képernyőt."
+
+msgctxt "#32030"
+msgid "Enable display information on game selection"
+msgstr "Információk megjelenítésének engedélyezése játékkiválasztáskor"
+
+msgctxt "#32031"
+msgid "Launch emulator"
+msgstr "Emulátor indítása"
+
+msgctxt "#32032"
+msgid "No information available"
+msgstr "Nincs elérhető információ"
+
+msgctxt "#32033"
+msgid "Show \"Game Disc\" button on root file list"
+msgstr "A \"Játéklemez\" gomb megjelenítése a gyökérfájlok listáján"
+
+msgctxt "#32034"
+msgid "Browse for XBE File"
+msgstr "XBE fájl keresése""
+
+msgctxt "#32035"
+msgid "Updating content information"
+msgstr "Tartalom-információ frissítése"
+
+msgctxt "#32036"
+msgid "Run Script"
+msgstr "Szkript futtatása"
+
+msgctxt "#32037"
+msgid "Show \"Insignia Info\" button on root file list"
+msgstr "Az \"Insignia Info\" gomb megjelenítése a gyökérfájlok listáján"
+
+msgctxt "#32038"
+msgid "Content scrapers"
+msgstr "Tartalom szkennerek"
+
+msgctxt "#32039"
+msgid "Scraper"
+msgstr "Szkenner"
+
+msgctxt "#32040"
+msgid "Enable scanner logging"
+msgstr "Szkenner naplózásának engedélyezése"
+
+msgctxt "#32041"
+msgid "Install 128MB fanart if available"
+msgstr "128 MB fanart telepítése, ha elérhető"
+
+msgctxt "#32042"
+msgid "Install video previews if available"
+msgstr "Videóelőnézetek telepítése" ha elérhető"
+
+msgctxt "#32043"
+msgid "Skip content with artwork"
+msgstr "Tartalom kihagyása grafikával"
+
+msgctxt "#32044"
+msgid ""
+msgstr ""
+
+msgctxt "#32045"
+msgid "Remove metadata"
+msgstr "Metaadat törlése"
+
+msgctxt "#32046"
+msgid "Content scripts"
+msgstr "Tartalom szkriptek"
+
+msgctxt "#32047"
+msgid "Rip Disc to HDD"
+msgstr "Lemez másolása a HDD-re"
+
+msgctxt "#32048"
+msgid "Dismount Game"
+msgstr "Játék lecsatolása"
 
 msgctxt "#33001"
 msgid "Trailer quality"
