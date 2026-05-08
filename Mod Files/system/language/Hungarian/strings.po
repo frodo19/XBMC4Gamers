@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: xbmc4xbox\n"
 "Report-Msgid-Bugs-To: Rocky5 XBMC4Xbox forums\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2026-05-07 17:00+ZONE\n"
+"PO-Revision-Date: 2026-05-08 17:00+ZONE\n"
 "Last-Translator: Frodo19"
 "Language-Team: Hungarian"
 "MIME-Version: 1.0\n"
@@ -7083,7 +7083,7 @@ msgstr "Elvetés és frissítés az internetről?"
 
 msgctxt "#20448"
 msgid "Could not download information"
-msgstr "Nem tudtam letölteni az információt"
+msgstr "Nem lehetett letölteni az információt"
 
 msgctxt "#20449"
 msgid "Server is most likely unavailable."
@@ -7113,7 +7113,7 @@ msgstr "Filmgyűjtemény fanart beállítása"
 
 msgctxt "#20458"
 msgid "Group movies in sets"
-msgstr "Filmek csoportosítása készletekbe"
+msgstr "Filmek csoportosítása gyűjteményekbe"
 
 msgctxt "#21330"
 msgid "Show hidden files and directories"
@@ -7125,11 +7125,11 @@ msgstr "TuxBox PVR ügyfél"
 
 msgctxt "#21332"
 msgid "WARNING: Target TuxBox device is in recording-mode!"
-msgstr "FIGYELEM:TuxBox céleszköz felvétel módban lesz!"
+msgstr "FIGYELEM: a TuxBox céleszköz felvétel módban lesz!"
 
 msgctxt "#21333"
 msgid "The stream will be stopped!"
-msgstr "Az adatfolyam megáll!"
+msgstr "Az adatfolyam meg fog állni!"
 
 msgctxt "#21334"
 msgid "Zap to channel: %s failed!"
@@ -7649,7 +7649,7 @@ msgstr "Főcím"
 
 msgctxt "#21865"
 msgid "Special instructions"
-msgstr "Különleges útmutatás"
+msgstr "Különleges útmutatók"
 
 msgctxt "#21866"
 msgid "Category"
@@ -8051,203 +8051,13 @@ msgctxt "#29999"
 msgid "Apply flicker filter setting to games"
 msgstr "Villogás szűrő alkalmazása játékokra"
 
+#empty strings from id 30000 to 33000
+#strings 30000 thru 30999 reserved for plugins and plugin settings
+#strings 31000 thru 31999 reserved for skins
+
 #strings 32000 thru 32999 reserved for scripts and new internal names
 
-msgctxt "#32000"
-msgid "Advanced"
-msgstr "Haladó"
-
-msgctxt "#32001"
-msgid "Enable (Y) button opens the information window"
-msgstr "Engedélyezd az (Y) gomb használatát az információs ablak megnyitásához"
-
-msgctxt "#32002"
-msgid "Enable fast game parsing"
-msgstr "Gyors játékelemzés engedélyezése"
-
-msgctxt "#32003"
-msgid "Disable Synopsis naming"
-msgstr "Szinopszis átnevezés tiltása"
-
-msgctxt "#32004"
-msgid "This option will not work with forced 480p bios"
-msgstr "Ez a beállítás nem fog működni kényszerített 480p BIOS-szal"
-
-msgctxt "#32005"
-msgid "Enable higher resolution artwork"
-msgstr "Nagyobb felbontású grafikák engedélyezése"
-
-msgctxt "#32006"
-msgid "Refresh info"
-msgstr "Infó frissítése"
-
-msgctxt "#32007"
-msgid "Refresh all contents info"
-msgstr "Minden tartalom frissítése"
-
-msgctxt "#32008"
-msgid "Processing metadata..."
-msgstr "Metaadatok átvitele..."
-
-msgctxt "#32009"
-msgid "Custom launch XBE"
-msgstr "XBE indítás felülbírálása"
-
-msgctxt "#32010"
-msgid "Unpatched"
-msgstr "Érintetlen"
-
-msgctxt "#32011"
-msgid "480p Patch"
-msgstr "480p Patch"
-
-msgctxt "#32012"
-msgid "720p Patch"
-msgstr "720p Patch"
-
-msgctxt "#32013"
-msgid "Generic Patch"
-msgstr "Általános Patch"
-
-msgctxt "#32014"
-msgid "Widescreen Patch"
-msgstr "Szélesvászon Patch"
-
-msgctxt "#32015"
-msgid "XHD Patch"
-msgstr "XHD Patch"
-
-msgctxt "#32016"
-msgid "Resize Screen"
-msgstr "Képernyő átméretezése"
-
-msgctxt "#32017"
-msgid "Manage"
-msgstr "Kezelés"
-
-msgctxt "#32018"
-msgid "Launch settings"
-msgstr "Indítási beállítások"
-
-msgctxt "#32019"
-msgid "Information"
-msgstr "Információk"
-
-msgctxt "#32020"
-msgid "Power Saving"
-msgstr "Energiatakarékos"
-
-msgctxt "#32021"
-msgid "This can crash some Xbox. If yours crashes, hold the (Black) button[CR]when the splash screen appears to disable."
-msgstr "Ez összeomlást okozhat egyes Xboxokon. Ha a tiéd összeomlik, a letiltáshoz tartsd lenyomva a (Fekete) gombot [CR], amikor megjelenik a kezdőképernyő."
-
-msgctxt "#32022"
-msgid "  Ignore matches in path"
-msgstr "  Az elérési úton található egyezések figyelmen kívül hagyása"
-
-msgctxt "#32023"
-msgid "  Ignore matches in name"
-msgstr "  A  névtalálatok figyelmen kívül hagyása"
-
-msgctxt "#32024"
-msgid "1080i Patch"
-msgstr "1080i Patch"
-
-msgctxt "#32025"
-msgid "Discord"
-msgstr "Discord"
-
-msgctxt "#32026"
-msgid "Enable xbdStats communication"
-msgstr "xbdStats kommunikáció engedélyezése"
-
-msgctxt "#32027"
-msgid "- Send title names to server"
-msgstr "- Címek neveinek küldése a szerverre"
-
-msgctxt "#32028"
-msgid "- Clear presence on startup"
-msgstr "- Tiszta jelenlét indításkor"
-
-msgctxt "#32029"
-msgid "Configure in the "Add User" profile, or disable the login screen."
-msgstr "Konfiguráld a „Felhasználó hozzáadása” profilban, vagy tiltsd le a bejelentkezési képernyőt."
-
-msgctxt "#32030"
-msgid "Enable display information on game selection"
-msgstr "Információk megjelenítésének engedélyezése játékkiválasztáskor"
-
-msgctxt "#32031"
-msgid "Launch emulator"
-msgstr "Emulátor indítása"
-
-msgctxt "#32032"
-msgid "No information available"
-msgstr "Nincs elérhető információ"
-
-msgctxt "#32033"
-msgid "Show \"Game Disc\" button on root file list"
-msgstr "A \"Játéklemez\" gomb megjelenítése a gyökérfájlok listáján"
-
-msgctxt "#32034"
-msgid "Browse for XBE File"
-msgstr "XBE fájl keresése""
-
-msgctxt "#32035"
-msgid "Updating content information"
-msgstr "Tartalom-információ frissítése"
-
-msgctxt "#32036"
-msgid "Run Script"
-msgstr "Szkript futtatása"
-
-msgctxt "#32037"
-msgid "Show \"Insignia Info\" button on root file list"
-msgstr "Az \"Insignia Info\" gomb megjelenítése a gyökérfájlok listáján"
-
-msgctxt "#32038"
-msgid "Content scrapers"
-msgstr "Tartalom szkennerek"
-
-msgctxt "#32039"
-msgid "Scraper"
-msgstr "Szkenner"
-
-msgctxt "#32040"
-msgid "Enable scanner logging"
-msgstr "Szkenner naplózásának engedélyezése"
-
-msgctxt "#32041"
-msgid "Install 128MB fanart if available"
-msgstr "128 MB fanart telepítése, ha elérhető"
-
-msgctxt "#32042"
-msgid "Install video previews if available"
-msgstr "Videóelőnézetek telepítése" ha elérhető"
-
-msgctxt "#32043"
-msgid "Skip content with artwork"
-msgstr "Tartalom kihagyása grafikával"
-
-msgctxt "#32044"
-msgid ""
-msgstr ""
-
-msgctxt "#32045"
-msgid "Remove metadata"
-msgstr "Metaadat törlése"
-
-msgctxt "#32046"
-msgid "Content scripts"
-msgstr "Tartalom szkriptek"
-
-msgctxt "#32047"
-msgid "Rip Disc to HDD"
-msgstr "Lemez másolása a HDD-re"
-
-msgctxt "#32048"
-msgid "Dismount Game"
-msgstr "Játék lecsatolása"
+#strings 33000 thru 33999 reserved for common strings used in addons
 
 msgctxt "#33001"
 msgid "Trailer quality"
@@ -8548,3 +8358,203 @@ msgstr "- Elsődleges DNS"
 msgctxt "#34007"
 msgid "- Secondary DNS"
 msgstr "- Másodlagos DNS"
+
+msgctxt "#34008"
+msgid "Advanced"
+msgstr "Haladó"
+
+msgctxt "#34009"
+msgid "Enable (Y) button opens the information window"
+msgstr "Engedélyezd az (Y) gomb használatát az információs ablak megnyitásához"
+
+msgctxt "#34010"
+msgid ""
+msgstr ""
+
+msgctxt "#34011"
+msgid "Disable Synopsis naming"
+msgstr "Szinopszis átnevezés tiltása"
+
+msgctxt "#34012"
+msgid "This option will not work with forced 480p bios"
+msgstr "Ez a beállítás nem fog működni kényszerített 480p BIOS-szal"
+
+msgctxt "#34013"
+msgid "Enable higher resolution artwork"
+msgstr "Nagyobb felbontású grafikák engedélyezése"
+
+msgctxt "#34014"
+msgid "Refresh"
+msgstr "Frissítés"
+
+msgctxt "#34015"
+msgid "Refresh all"
+msgstr "Minden tartalom frissítése"
+
+msgctxt "#34016"
+msgid "Processing metadata..."
+msgstr "Metaadatok átvitele..."
+
+msgctxt "#34017"
+msgid "Custom launch XBE"
+msgstr "XBE indítás felülbírálása"
+
+msgctxt "#34018"
+msgid "Unpatched"
+msgstr "Érintetlen"
+
+msgctxt "#34019"
+msgid "480p Patch"
+msgstr "480p Patch"
+
+msgctxt "#34020"
+msgid "720p Patch"
+msgstr "720p Patch"
+
+msgctxt "#34021"
+msgid "Generic Patch"
+msgstr "Általános Patch"
+
+msgctxt "#34022"
+msgid "Widescreen Patch"
+msgstr "Szélesvászon Patch"
+
+msgctxt "#34023"
+msgid "XHD Patch"
+msgstr "XHD Patch"
+
+msgctxt "#34024"
+msgid "Resize Screen"
+msgstr "Képernyő átméretezése"
+
+msgctxt "#34025"
+msgid "Manage"
+msgstr "Kezelés"
+
+msgctxt "#34026"
+msgid "Launch settings"
+msgstr "Indítási beállítások"
+
+msgctxt "#34027"
+msgid "Information"
+msgstr "Információk"
+
+msgctxt "#34028"
+msgid ""
+msgstr ""
+
+msgctxt "#34029"
+msgid "This can crash some Xbox. If yours crashes, hold the (Black) button[CR]when the splash screen appears to disable"
+msgstr "Ez összeomlást okozhat egyes Xboxokon. Ha a tiéd összeomlik, a letiltáshoz tartsd lenyomva a (Fekete) gombot [CR], amikor megjelenik a kezdőképernyő."
+
+msgctxt "#34030"
+msgid ""
+msgstr ""
+
+msgctxt "#34031"
+msgid ""
+msgstr ""
+
+msgctxt "#34032"
+msgid "1080i Patch"
+msgstr "1080i Patch"
+
+msgctxt "#34033"
+msgid "Discord"
+msgstr "Discord"
+
+msgctxt "#34034"
+msgid "Enable xbdStats communication"
+msgstr "xbdStats kommunikáció engedélyezése"
+
+msgctxt "#34035"
+msgid "- Send title names to server"
+msgstr "- Címek neveinek küldése a szerverre"
+
+msgctxt "#34036"
+msgid "- Clear presence on startup"
+msgstr "- Tiszta indítás"
+
+msgctxt "#34037"
+msgid "Configure in the \"Add User\" profile, or disable the login screen"
+msgstr "Konfiguráld a \"Felhasználó hozzáadása\" profilban, vagy tiltsd le a bejelentkezési képernyőt."
+
+msgctxt "#34038"
+msgid "Enable display information on game selection"
+msgstr "Információk megjelenítésének engedélyezése játékkiválasztáskor"
+
+msgctxt "#34039"
+msgid "Launch emulator"
+msgstr "Emulátor indítása"
+
+msgctxt "#34040"
+msgid "No information available"
+msgstr "Nincs elérhető információ"
+
+msgctxt "#34041"
+msgid "Show \"Game Disc\" button on root file list"
+msgstr "A \"Játéklemez\" gomb megjelenítése a gyökérfájlok listáján"
+
+msgctxt "#34042"
+msgid "Browse for XBE File"
+msgstr "XBE fájl keresése"
+
+msgctxt "#34043"
+msgid "Updating content information"
+msgstr "Tartalom-információ frissítése"
+
+msgctxt "#34044"
+msgid "Run Script"
+msgstr "Szkript futtatása"
+
+msgctxt "#34045"
+msgid "Show \"Insignia Info\" button on root file list"
+msgstr "Az \"Insignia Info\" gomb megjelenítése a gyökérfájlok listáján"
+
+msgctxt "#34046"
+msgid "Content scrapers"
+msgstr "Tartalom szkennerek"
+
+msgctxt "#34047"
+msgid "Scraper"
+msgstr "Szkenner"
+
+msgctxt "#34048"
+msgid "Enable scanner logging"
+msgstr "Szkenner naplózásának engedélyezése"
+
+msgctxt "#34049"
+msgid "Install 128MB fanart if available"
+msgstr "128 MB fanart telepítése, ha elérhető"
+
+msgctxt "#34050"
+msgid "Install video previews if available"
+msgstr "Videóelőnézetek telepítése, ha elérhető"
+
+msgctxt "#34051"
+msgid "Skip content with artwork"
+msgstr "Tartalom helyettesítése grafikával"
+
+msgctxt "#34052"
+msgid ""
+msgstr ""
+
+msgctxt "#34053"
+msgid "Remove metadata"
+msgstr "Metaadat törlése"
+
+msgctxt "#34054"
+msgid "Content scripts"
+msgstr "Tartalom szkriptek"
+
+msgctxt "#34055"
+msgid "Rip Disc to HDD"
+msgstr "Lemez másolása a HDD-re"
+
+msgctxt "#34056"
+msgid "Dismount Game"
+msgstr "Játék leválasztása"
+
+msgctxt "#34057"
+msgid "Confirm password"
+msgstr "Jelszó megerősítése"
